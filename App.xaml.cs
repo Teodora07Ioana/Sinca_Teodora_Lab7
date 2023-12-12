@@ -1,6 +1,8 @@
 ﻿using System;
 using Sinca_Teodora_Lab7.Data;
 using System.IO;
+using SQLiteNetExtensions;
+using SQLite;
 namespace Sinca_Teodora_Lab7;
 
 public partial class App : Application
